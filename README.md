@@ -101,4 +101,4 @@ Every push to `main` triggers the pipeline — install, build, and deploy to Fir
  
 **Dipta Biswas** — Senior Frontend Engineer specializing in React, TypeScript & real-time UIs
  
-[LinkedIn](https://www.linkedin.com/in/dipta-biswas) · [GitHub](https://github.com/itsdiptabiswas) · [MBOX Project](https://drive-clone-ecru.vercel.app)
+[LinkedIn](https://www.linkedin.com/in/dipta-biswas) · [GitHub](https://github.com/itsdiptabiswas) · [MBOX Project](https://mbox.diptabiswas.in/)
